@@ -1,73 +1,128 @@
 
+<div align="center">
+
 # Hi, I'm Mahyar 👋
 
-### Computer Engineering Student \| Programmer \| AI & Automation Enthusiast
+### Computer Engineering Student | Developer | AI Enthusiast
 
-I enjoy building practical software, exploring AI-powered solutions, and
-turning ideas into useful applications.
+**Building projects • Exploring AI • Learning every day**
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-:::
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
 
-------------------------------------------------------------------------
+<p>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github" />
+  </a>
+</p>
+
+</div>
+
+---
 
 ## 👨‍💻 About Me
 
--   🎓 Computer Engineering student
--   💻 Interested in software development, artificial intelligence, and
-    automation
--   🤖 Building Telegram bots and practical programming projects
--   📚 Always learning new tools, technologies, and better ways to solve
-    problems
+- 🎓 Computer Engineering student
+- 💻 Interested in programming, AI, and automation
+- 🐧 Exploring Linux, networking, and cybersecurity
+- 🤖 Developing Python applications and Telegram bots
+- 🚀 Focused on learning, building, and improving
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack
 
-```{=html}
-<!-- Keep only the technologies you actually use; add or remove badges as needed. -->
-```
-```{=html}
+### Languages
 <p>
-```
-`<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />`{=html}
-`<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />`{=html}
-`<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />`{=html}
-`<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />`{=html}
-`<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />`{=html}
-`<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />`{=html}
-`<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />`{=html}
-```{=html}
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
 </p>
-```
-## 🚀 Projects
+
+### Tools & Interests
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Networking-0078D4?style=flat-square&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cybersecurity-2E8B57?style=flat-square&logo=kalilinux&logoColor=white" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
 
 ### 🤖 Telegram Bot
 
-A Python-based Telegram bot project focused on providing a structured
-user experience, profile registration, and menu-based features.
+Python-based bot with registration, user profiles, and interactive menus.
 
-### 📚 Library Management System
+**Tech:** Python · aiogram · SQLite
 
-A Java project for managing books, students, librarians, and borrowing
-requests, with data persistence and role-based functionality.
+</td>
+<td width="50%">
 
-> Add links to your repositories above when you publish these projects.
+### 📚 Library Management
 
-## 🌱 Currently Learning
+A Java application for managing books, students, librarians, and borrowing records.
 
--   Artificial intelligence and AI-powered applications
--   Writing cleaner, more maintainable code
--   Building useful automation tools
--   Improving software design and project structure
+**Tech:** Java · OOP · JSON
 
-## 🤝 Connect With Me
+</td>
+</tr>
+</table>
 
--   **GitHub:** [@MahyarDanesfahani](https://github.com/MahyarDanesfahani)
--   **Email:** mahyardanesfahani@gmail.com
+<!-- Replace the descriptions above with links to your actual repositories. -->
 
+---
 
-------------------------------------------------------------------------
+## 📊 GitHub Analytics
 
-::: {align="center"}
-*Thanks for visiting my profile! Feel free to explore my repositories.*
-✨
-:::
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true" alt="Contribution Activity Graph" />
+
+</div>
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/MahyarDanesfahani">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:mahyardanesfahani@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Learn. Build. Improve. Repeat.
+
+*Thanks for visiting my profile! ⭐*
+
+</div>

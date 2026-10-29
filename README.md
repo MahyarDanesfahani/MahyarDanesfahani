@@ -1,4 +1,4 @@
-::: {align="center"}
+
 # Hi, I'm Mahyar 👋
 
 ### Computer Engineering Student \| Programmer \| AI & Automation Enthusiast

@@ -126,6 +126,17 @@ A Java application for managing books, students, librarians, and borrowing recor
 
 <div align="center">
 
+## 🎮 Play Cyber Quest
+
+Can you crack the secret code in 8 attempts?
+
+<div align="center">
+  <a href="https://MahyarDanesfahani.github.io/cyber-quest/">
+    <img src="https://img.shields.io/badge/PLAY-CYBER_QUEST-00d68f?style=for-the-badge&logo=github&logoColor=black" alt="Play Cyber Quest">
+  </a>
+</div>
+
+
 ### 💡 Learn. Build. Improve. Repeat.
 
 *Thanks for visiting my profile! ⭐*

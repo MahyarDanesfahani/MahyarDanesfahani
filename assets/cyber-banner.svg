@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<title id="title">Mahyar Danesfahani — Full-Stack Developer</title>
+<desc id="desc">A dark cyber-themed banner with neon cyan and magenta circuit lines.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#080d18"/><stop offset=".55" stop-color="#101329"/><stop offset="1" stop-color="#071b22"/></linearGradient>
+  <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#00f5d4"/><stop offset="1" stop-color="#ff4d8d"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#294052" stroke-opacity=".32" stroke-width="1"/></pattern>
+</defs>
+<rect width="1200" height="320" rx="18" fill="url(#bg)"/>
+<rect width="1200" height="320" rx="18" fill="url(#grid)"/>
+<g fill="none" stroke="url(#neon)" stroke-width="2" opacity=".8" filter="url(#glow)">
+  <path d="M0 70H120L160 110H250M1200 80H1080L1040 120H960"/>
+  <path d="M0 250H180L220 210H300M1200 245H1050L1010 205H930"/>
+  <path d="M70 0V42L100 72M1130 0V42L1100 72"/>
+  <path d="M80 320V280L110 250M1120 320V280L1090 250"/>
+</g>
+<g fill="#00f5d4"><circle cx="250" cy="110" r="4"/><circle cx="960" cy="120" r="4"/><circle cx="300" cy="210" r="4"/><circle cx="930" cy="205" r="4"/></g>
+<g text-anchor="middle" font-family="Segoe UI, Arial, sans-serif">
+  <text x="600" y="125" fill="#8b949e" font-size="17" letter-spacing="7">HELLO, WORLD — I'M</text>
+  <text x="600" y="185" fill="#f0f6fc" font-size="48" font-weight="700" letter-spacing="1">MAHYAR DANESFAHANI</text>
+  <text x="600" y="225" fill="url(#neon)" font-size="21" font-weight="600" letter-spacing="6">FULL-STACK DEVELOPER</text>
+  <text x="600" y="270" fill="#8b949e" font-size="13" letter-spacing="3">SOFTWARE ENGINEERING  //  AI  //  BUILDING THE FUTURE</text>
+</g>
+<rect x="18" y="18" width="1164" height="284" rx="12" fill="none" stroke="#00f5d4" stroke-opacity=".2"/>
+</svg>

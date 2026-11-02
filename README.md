@@ -1,144 +1,130 @@
-
 <div align="center">
 
-# Hi, I'm Mahyar 👋
+<img src="assets/cyber-banner.svg" alt="Mahyar Danesfahani — Full-Stack Developer" width="100%" />
 
-### Computer Engineering Student | Developer | AI Enthusiast
+<br/>
 
-**Building projects • Exploring AI • Learning every day**
+[![GitHub](https://img.shields.io/badge/GitHub-MahyarDanesfahani-0d1117?style=for-the-badge&logo=github&logoColor=00f5d4)](https://github.com/MahyarDanesfahani)
+[![Email](https://img.shields.io/badge/Email-Contact-0d1117?style=for-the-badge&logo=gmail&logoColor=ff4d8d)](mailto:mahyardanesfahani@gmail.com)
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
+**FULL-STACK DEVELOPER · SOFTWARE ENGINEERING · AI EXPLORER**
 
-<p>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github" />
-  </a>
-</p>
+*Learn deeply. Build thoughtfully. Ship consistently.*
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## > whoami
 
-- 🎓 Computer Engineering student
-- 💻 Interested in programming, AI, and automation
-- 🐧 Exploring Linux, networking, and cybersecurity
-- 🤖 Developing Python applications and Telegram bots
-- 🚀 Focused on learning, building, and improving
+I'm **Mahyar Danesfahani**, a Computer Engineering student and Full-Stack Developer interested in building useful software, exploring artificial intelligence, and understanding how systems work under the hood.
 
-## 🛠️ Tech Stack
+- Building web applications and software projects
+- Exploring AI, automation, and intelligent agents
+- Interested in backend engineering, clean architecture, and developer tools
+- Always learning by turning ideas into working projects
 
-### Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+## > tech_stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,php,laravel,js,html,css,cpp,git,github,linux,django&perline=6" alt="Technologies and tools" />
 </p>
 
-### Tools & Interests
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Networking-0078D4?style=flat-square&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cybersecurity-2E8B57?style=flat-square&logo=kalilinux&logoColor=white" />
-</p>
+<details>
+<summary><b>Tech stack — text view</b></summary>
 
----
+| Area | Technologies |
+|---|---|
+| Languages | Python, Java, JavaScript, PHP, C/C++ |
+| Web | HTML, CSS, Laravel |
+| Backend & Frameworks | Django, Laravel, aiogram |
+| Tools | Git, GitHub, Linux |
+| Exploring | AI engineering, automation, software architecture, networking |
 
-## 🚀 Featured Projects
+</details>
 
+## > selected_projects
+
+<div align="center">
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 Telegram Bot
+### [dark-shell-portfolio](https://github.com/MahyarDanesfahani/dark-shell-portfolio)
 
-Python-based bot with registration, user profiles, and interactive menus.
-
-**Tech:** Python · aiogram · SQLite
+A personal portfolio project.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📚 Library Management
+### [cyber-quest](https://github.com/MahyarDanesfahani/cyber-quest)
 
-A Java application for managing books, students, librarians, and borrowing records.
+A browser-based code-breaking mini game.
 
-**Tech:** Java · OOP · JSON
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [building-manager](https://github.com/MahyarDanesfahani/building-manager)
+
+A software project in the building-management domain.
+
+</td>
+<td width="50%" valign="top">
+
+### [Compiler_Project](https://github.com/MahyarDanesfahani/Compiler_Project)
+
+A compiler-focused project.
 
 </td>
 </tr>
 </table>
+</div>
 
-<!-- Replace the descriptions above with links to your actual repositories. -->
-
----
-
-## 📊 GitHub Analytics
+## > github_analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MahyarDanesfahani&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00f5d4&icon_color=00f5d4&text_color=c9d1d9&rank_icon=github" alt="GitHub statistics" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahyarDanesfahani&layout=compact&hide_border=true&bg_color=0d1117&title_color=00f5d4&text_color=c9d1d9" alt="Most used languages" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=MahyarDanesfahani&hide_border=true&background=0D1117&ring=00F5D4&fire=FF4D8D&currStreakLabel=00F5D4&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
+
+<br/>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=MahyarDanesfahani&bg_color=0d1117&color=c9d1d9&line=00f5d4&point=ff4d8d&area=true&hide_border=true" alt="Contribution activity graph" />
 
 </div>
 
----
+### > automated_metrics
 
-## 📈 Contribution Activity
+The metrics image below is refreshed automatically by GitHub Actions.
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true" alt="Contribution Activity Graph" />
-
+  <img src="profile/metrics.svg" alt="Automatically generated GitHub metrics" width="100%" />
 </div>
 
----
+## > در یک نگاه | Persian
 
-## 📬 Let's Connect
+من **مهیار دانش‌فراهانی**، دانشجوی مهندسی کامپیوتر و توسعه‌دهنده فول‌استک هستم. به ساخت نرم‌افزارهای کاربردی، مهندسی نرم‌افزار و هوش مصنوعی علاقه دارم.
 
-<div align="center">
+- توسعه پروژه‌های نرم‌افزاری و وب
+- تجربه کار با Python، Java، JavaScript، PHP و Laravel
+- علاقه‌مند به هوش مصنوعی، اتوماسیون و طراحی معماری نرم‌افزار
+- یادگیری از طریق ساخت پروژه‌های واقعی و حل مسئله
 
-<a href="https://github.com/MahyarDanesfahani">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="mailto:mahyardanesfahani@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
-
----
+## > contact
 
 <div align="center">
 
-## 🎮 Play Cyber Quest
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-0d1117?style=for-the-badge&logo=github)](https://github.com/MahyarDanesfahani)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-0d1117?style=for-the-badge&logo=gmail)](mailto:mahyardanesfahani@gmail.com)
 
-Can you crack the secret code in 8 attempts?
+<br/>
 
-<div align="center">
-  <a href="https://MahyarDanesfahani.github.io/cyber-quest/">
-    <img src="https://img.shields.io/badge/PLAY-CYBER_QUEST-00d68f?style=for-the-badge&logo=github&logoColor=black" alt="Play Cyber Quest">
-  </a>
-</div>
-
-
-### 💡 Learn. Build. Improve. Repeat.
-
-*Thanks for visiting my profile! ⭐*
+**BUILD · BREAK · LEARN · REPEAT**
 
 </div>
